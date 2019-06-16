@@ -1,0 +1,4 @@
+#Thu Nov 01 15:53:22 CET 2018
+base.0=D\:\\Datasets\\android\\tfmobile\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\1
+renamed.0=classes.dex
+file.0=D\:\\Datasets\\android\\tfmobile\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\1\\classes.dex

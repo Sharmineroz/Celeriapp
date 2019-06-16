@@ -1,0 +1,134 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Datasets\\android\\tfmobile\\gradleBuild\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Datasets\\android\\tfmobile\\res\\values\\template-dimens.xml",
+                    "from": {
+                        "startLines": "28,24,23,22,21,20,29",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "1000,917,872,826,782,739,1071",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "1065,955,911,866,820,776,1134"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "308,378,421,465,510,553,595",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "373,416,460,505,548,590,658"
+                    }
+                },
+                {
+                    "source": "D:\\Datasets\\android\\tfmobile\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "17,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "771,674",
+                        "endLines": "20,16",
+                        "endColumns": "12,95",
+                        "endOffsets": "944,765"
+                    },
+                    "to": {
+                        "startLines": "22,26",
+                        "startColumns": "4,4",
+                        "startOffsets": "1169,1344",
+                        "endLines": "25,26",
+                        "endColumns": "12,94",
+                        "endOffsets": "1339,1434"
+                    }
+                },
+                {
+                    "source": "D:\\Datasets\\android\\tfmobile\\res\\values\\template-styles.xml",
+                    "from": {
+                        "startLines": "24,20,22,27,29,34",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "805,684,748,889,920,1122",
+                        "endLines": "24,20,22,27,32,39",
+                        "endColumns": "51,60,53,27,12,12",
+                        "endOffsets": "852,740,797,912,1114,1400"
+                    },
+                    "to": {
+                        "startLines": "21,27,28,29,30,34",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1118,1439,1499,1552,1579,1775",
+                        "endLines": "21,27,28,29,33,39",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "1164,1494,1547,1574,1770,2048"
+                    }
+                },
+                {
+                    "source": "D:\\Datasets\\android\\tfmobile\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "676",
+                        "endColumns": "54",
+                        "endOffsets": "726"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                },
+                {
+                    "source": "D:\\Datasets\\android\\tfmobile\\res\\values\\attrs.xml",
+                    "from": {
+                        "startLines": "8",
+                        "startColumns": "2",
+                        "startOffsets": "292",
+                        "endLines": "11",
+                        "endColumns": "22",
+                        "endOffsets": "490"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "110",
+                        "endLines": "6",
+                        "endColumns": "22",
+                        "endOffsets": "303"
+                    }
+                },
+                {
+                    "source": "D:\\Datasets\\android\\tfmobile\\res\\values\\base-strings.xml",
+                    "from": {
+                        "startLines": "19,20,21,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "727,795,858,678",
+                        "endColumns": "66,61,60,47",
+                        "endOffsets": "789,852,914,721"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "663,730,792,853",
+                        "endColumns": "66,61,60,47",
+                        "endOffsets": "725,787,848,896"
+                    }
+                },
+                {
+                    "source": "D:\\Datasets\\android\\tfmobile\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "18,16,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "810,674,725",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "888,719,804"
+                    },
+                    "to": {
+                        "startLines": "18,19,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "901,984,1034",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "979,1029,1113"
+                    }
+                }
+            ]
+        }
+    ]
+}

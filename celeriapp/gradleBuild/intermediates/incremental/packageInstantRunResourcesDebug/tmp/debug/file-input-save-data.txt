@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Mon Apr 01 19:59:34 COT 2019
+1.base=D\:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.path=rounded_graph.pb
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=D\:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+3.set=ASSET
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=labels.txt
+count=4
+1.set=ASSET
+0.path=retrained_labels.txt
+3.base=D\:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.set=ASSET
+0.base=D\:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.baseType=DIRECTORY
+1.path=graph.pb

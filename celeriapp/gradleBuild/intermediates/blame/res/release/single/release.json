@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\Datasets\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_action_info.png.flat",
+        "source": "D:\\Datasets\\android\\tfmobile\\res\\drawable-mdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Datasets\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_action_info.png.flat",
+        "source": "D:\\Datasets\\android\\tfmobile\\res\\drawable-xxhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Datasets\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_action_info.png.flat",
+        "source": "D:\\Datasets\\android\\tfmobile\\res\\drawable-xhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Datasets\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\release\\drawable-hdpi_tile.9.png.flat",
+        "source": "D:\\Datasets\\android\\tfmobile\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "D:\\Datasets\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_celery.jpg.flat",
+        "source": "D:\\Datasets\\android\\tfmobile\\res\\drawable-mdpi\\ic_celery.jpg"
+    },
+    {
+        "merged": "D:\\Datasets\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\release\\layout_camera_connection_fragment.xml.flat",
+        "source": "D:\\Datasets\\android\\tfmobile\\res\\layout\\camera_connection_fragment.xml"
+    },
+    {
+        "merged": "D:\\Datasets\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\release\\layout_camera_connection_fragment_tracking.xml.flat",
+        "source": "D:\\Datasets\\android\\tfmobile\\res\\layout\\camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "D:\\Datasets\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Datasets\\android\\tfmobile\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Datasets\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Datasets\\android\\tfmobile\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Datasets\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Datasets\\android\\tfmobile\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Datasets\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\release\\layout_popupwindow.xml.flat",
+        "source": "D:\\Datasets\\android\\tfmobile\\res\\layout\\popupwindow.xml"
+    },
+    {
+        "merged": "D:\\Datasets\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\release\\layout_camera_connection_fragment_stylize.xml.flat",
+        "source": "D:\\Datasets\\android\\tfmobile\\res\\layout\\camera_connection_fragment_stylize.xml"
+    },
+    {
+        "merged": "D:\\Datasets\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_action_info.png.flat",
+        "source": "D:\\Datasets\\android\\tfmobile\\res\\drawable-hdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Datasets\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\release\\layout_activity_camera.xml.flat",
+        "source": "D:\\Datasets\\android\\tfmobile\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "D:\\Datasets\\android\\tfmobile\\gradleBuild\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Datasets\\android\\tfmobile\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
