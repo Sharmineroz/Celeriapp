@@ -67,7 +67,7 @@ public class    Pop extends Activity{
     private void Obataindata(String MainGuess){
         String WikiUrl = "https://en.wikipedia.org/wiki/";
         String DescUrl ="https://en.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro=&explaintext=&titles=";
-        String OtherUrl = "https://www.fruitsandveggiesmorematters.org/fruits-and-veggies/";
+        String OtherUrl = "https://www.fruitsandveggies.org/fruits-and-veggies/";
 
         String idNuts = setId(MainGuess);
         String urlNuts = "https://ndb.nal.usda.gov/ndb/foods/show/"+idNuts;

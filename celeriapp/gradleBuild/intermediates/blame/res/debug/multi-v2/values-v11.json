@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "D:\\Datasets\\android\\celeriapp\\res\\values-v11\\template-styles.xml",
-                    "from": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "682",
-                        "endColumns": "65",
-                        "endOffsets": "743"
-                    },
-                    "to": {
-                        "startLines": "15",
-                        "startColumns": "4",
-                        "startOffsets": "779",
-                        "endColumns": "64",
-                        "endOffsets": "839"
-                    }
-                },
-                {
-                    "source": "D:\\Datasets\\android\\celeriapp\\res\\values-v11\\styles.xml",
+                    "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\values-v11\\styles.xml",
                     "from": {
                         "startLines": "7,19,11",
                         "startColumns": "2,2,2",
@@ -37,6 +20,23 @@
                         "endLines": "4,7,14",
                         "endColumns": "10,10,10",
                         "endOffsets": "181,350,774"
+                    }
+                },
+                {
+                    "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\values-v11\\template-styles.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "682",
+                        "endColumns": "65",
+                        "endOffsets": "743"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "779",
+                        "endColumns": "64",
+                        "endOffsets": "839"
                     }
                 }
             ]

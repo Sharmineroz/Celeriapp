@@ -1,51 +1,181 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\values-sw600dp-v13_values-sw600dp-v13.arsc.flat",
+            "outputFile": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
             "map": [
                 {
-                    "source": "D:\\Datasets\\android\\celeriapp\\res\\values-sw600dp\\template-dimens.xml",
+                    "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\values-v11\\styles.xml",
                     "from": {
-                        "startLines": "20,21",
-                        "startColumns": "4,4",
-                        "startOffsets": "689,758",
-                        "endColumns": "67,67",
-                        "endOffsets": "752,821"
+                        "startLines": "7,19,11",
+                        "startColumns": "2,2,2",
+                        "startOffsets": "217,782,351",
+                        "endLines": "9,21,17",
+                        "endColumns": "10,10,10",
+                        "endOffsets": "345,948,776"
                     },
                     "to": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,123",
-                        "endColumns": "67,67",
-                        "endOffsets": "118,186"
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,186,355",
+                        "endLines": "4,7,14",
+                        "endColumns": "10,10,10",
+                        "endOffsets": "181,350,774"
                     }
                 },
                 {
-                    "source": "D:\\Datasets\\android\\celeriapp\\res\\values-sw600dp\\template-styles.xml",
+                    "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\values-v11\\template-styles.xml",
                     "from": {
-                        "startLines": "18",
+                        "startLines": "19",
                         "startColumns": "4",
-                        "startOffsets": "652",
-                        "endLines": "22",
-                        "endColumns": "12",
-                        "endOffsets": "896"
+                        "startOffsets": "682",
+                        "endColumns": "65",
+                        "endOffsets": "743"
                     },
                     "to": {
-                        "startLines": "4",
+                        "startLines": "15",
                         "startColumns": "4",
-                        "startOffsets": "191",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "431"
+                        "startOffsets": "779",
+                        "endColumns": "64",
+                        "endOffsets": "839"
                     }
                 }
             ]
         },
         {
-            "outputFile": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\values-v21_values-v21.arsc.flat",
+            "outputFile": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "D:\\Datasets\\android\\celeriapp\\res\\values-v21\\base-template-styles.xml",
+                    "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "18,16,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "810,674,725",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "888,719,804"
+                    },
+                    "to": {
+                        "startLines": "14,15,16",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "703,786,836",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "781,831,915"
+                    }
+                },
+                {
+                    "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\values\\template-styles.xml",
+                    "from": {
+                        "startLines": "24,20,22,27,29,34",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "805,684,748,889,920,1122",
+                        "endLines": "24,20,22,27,32,39",
+                        "endColumns": "51,60,53,27,12,12",
+                        "endOffsets": "852,740,797,912,1114,1400"
+                    },
+                    "to": {
+                        "startLines": "17,23,24,25,26,30",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "920,1241,1301,1354,1381,1577",
+                        "endLines": "17,23,24,25,29,35",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "966,1296,1349,1376,1572,1850"
+                    }
+                },
+                {
+                    "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\values\\attrs.xml",
+                    "from": {
+                        "startLines": "8",
+                        "startColumns": "2",
+                        "startOffsets": "292",
+                        "endLines": "11",
+                        "endColumns": "22",
+                        "endOffsets": "490"
+                    },
+                    "to": {
+                        "startLines": "36",
+                        "startColumns": "4",
+                        "startOffsets": "1855",
+                        "endLines": "39",
+                        "endColumns": "22",
+                        "endOffsets": "2048"
+                    }
+                },
+                {
+                    "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\values\\template-dimens.xml",
+                    "from": {
+                        "startLines": "28,24,23,22,21,20,29",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "1000,917,872,826,782,739,1071",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "1065,955,911,866,820,776,1134"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "110,180,223,267,312,355,397",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "175,218,262,307,350,392,460"
+                    }
+                },
+                {
+                    "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\values\\base-strings.xml",
+                    "from": {
+                        "startLines": "19,20,21,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "727,795,858,678",
+                        "endColumns": "66,61,60,47",
+                        "endOffsets": "789,852,914,721"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "465,532,594,655",
+                        "endColumns": "66,61,60,47",
+                        "endOffsets": "527,589,650,698"
+                    }
+                },
+                {
+                    "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "17,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "771,674",
+                        "endLines": "20,16",
+                        "endColumns": "12,95",
+                        "endOffsets": "944,765"
+                    },
+                    "to": {
+                        "startLines": "18,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "971,1146",
+                        "endLines": "21,22",
+                        "endColumns": "12,94",
+                        "endOffsets": "1141,1236"
+                    }
+                },
+                {
+                    "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "676",
+                        "endColumns": "54",
+                        "endOffsets": "726"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\values-v21\\base-template-styles.xml",
                     "from": {
                         "startLines": "20",
                         "startColumns": "4",
@@ -66,10 +196,51 @@
             ]
         },
         {
-            "outputFile": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "outputFile": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\values-sw600dp-v13_values-sw600dp-v13.arsc.flat",
             "map": [
                 {
-                    "source": "D:\\Datasets\\android\\celeriapp\\res\\values-v14\\styles.xml",
+                    "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\values-sw600dp\\template-dimens.xml",
+                    "from": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "689,758",
+                        "endColumns": "67,67",
+                        "endOffsets": "752,821"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,123",
+                        "endColumns": "67,67",
+                        "endOffsets": "118,186"
+                    }
+                },
+                {
+                    "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\values-sw600dp\\template-styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "652",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "896"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "191",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "431"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\values-v14\\styles.xml",
                     "from": {
                         "startLines": "7",
                         "startColumns": "2",
@@ -85,177 +256,6 @@
                         "endLines": "4",
                         "endColumns": "10",
                         "endOffsets": "195"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
-            "map": [
-                {
-                    "source": "D:\\Datasets\\android\\celeriapp\\res\\values-v11\\template-styles.xml",
-                    "from": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "682",
-                        "endColumns": "65",
-                        "endOffsets": "743"
-                    },
-                    "to": {
-                        "startLines": "15",
-                        "startColumns": "4",
-                        "startOffsets": "779",
-                        "endColumns": "64",
-                        "endOffsets": "839"
-                    }
-                },
-                {
-                    "source": "D:\\Datasets\\android\\celeriapp\\res\\values-v11\\styles.xml",
-                    "from": {
-                        "startLines": "7,19,11",
-                        "startColumns": "2,2,2",
-                        "startOffsets": "217,782,351",
-                        "endLines": "9,21,17",
-                        "endColumns": "10,10,10",
-                        "endOffsets": "345,948,776"
-                    },
-                    "to": {
-                        "startLines": "2,5,8",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,186,355",
-                        "endLines": "4,7,14",
-                        "endColumns": "10,10,10",
-                        "endOffsets": "181,350,774"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
-            "map": [
-                {
-                    "source": "D:\\Datasets\\android\\celeriapp\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "17",
-                        "startColumns": "4",
-                        "startOffsets": "676",
-                        "endColumns": "54",
-                        "endOffsets": "726"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "54",
-                        "endOffsets": "105"
-                    }
-                },
-                {
-                    "source": "D:\\Datasets\\android\\celeriapp\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "18,16,17",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "810,674,725",
-                        "endColumns": "82,49,83",
-                        "endOffsets": "888,719,804"
-                    },
-                    "to": {
-                        "startLines": "14,15,16",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "703,786,836",
-                        "endColumns": "82,49,83",
-                        "endOffsets": "781,831,915"
-                    }
-                },
-                {
-                    "source": "D:\\Datasets\\android\\celeriapp\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "17,16",
-                        "startColumns": "4,4",
-                        "startOffsets": "771,674",
-                        "endLines": "20,16",
-                        "endColumns": "12,95",
-                        "endOffsets": "944,765"
-                    },
-                    "to": {
-                        "startLines": "18,22",
-                        "startColumns": "4,4",
-                        "startOffsets": "971,1146",
-                        "endLines": "21,22",
-                        "endColumns": "12,94",
-                        "endOffsets": "1141,1236"
-                    }
-                },
-                {
-                    "source": "D:\\Datasets\\android\\celeriapp\\res\\values\\base-strings.xml",
-                    "from": {
-                        "startLines": "19,20,21,18",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "727,795,858,678",
-                        "endColumns": "66,61,60,47",
-                        "endOffsets": "789,852,914,721"
-                    },
-                    "to": {
-                        "startLines": "10,11,12,13",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "465,532,594,655",
-                        "endColumns": "66,61,60,47",
-                        "endOffsets": "527,589,650,698"
-                    }
-                },
-                {
-                    "source": "D:\\Datasets\\android\\celeriapp\\res\\values\\attrs.xml",
-                    "from": {
-                        "startLines": "8",
-                        "startColumns": "2",
-                        "startOffsets": "292",
-                        "endLines": "11",
-                        "endColumns": "22",
-                        "endOffsets": "490"
-                    },
-                    "to": {
-                        "startLines": "36",
-                        "startColumns": "4",
-                        "startOffsets": "1855",
-                        "endLines": "39",
-                        "endColumns": "22",
-                        "endOffsets": "2048"
-                    }
-                },
-                {
-                    "source": "D:\\Datasets\\android\\celeriapp\\res\\values\\template-styles.xml",
-                    "from": {
-                        "startLines": "24,20,22,27,29,34",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "805,684,748,889,920,1122",
-                        "endLines": "24,20,22,27,32,39",
-                        "endColumns": "51,60,53,27,12,12",
-                        "endOffsets": "852,740,797,912,1114,1400"
-                    },
-                    "to": {
-                        "startLines": "17,23,24,25,26,30",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "920,1241,1301,1354,1381,1577",
-                        "endLines": "17,23,24,25,29,35",
-                        "endColumns": "50,59,52,26,12,12",
-                        "endOffsets": "966,1296,1349,1376,1572,1850"
-                    }
-                },
-                {
-                    "source": "D:\\Datasets\\android\\celeriapp\\res\\values\\template-dimens.xml",
-                    "from": {
-                        "startLines": "28,24,23,22,21,20,29",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "1000,917,872,826,782,739,1071",
-                        "endColumns": "69,42,43,44,42,41,67",
-                        "endOffsets": "1065,955,911,866,820,776,1134"
-                    },
-                    "to": {
-                        "startLines": "3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "110,180,223,267,312,355,397",
-                        "endColumns": "69,42,43,44,42,41,67",
-                        "endOffsets": "175,218,262,307,350,392,460"
                     }
                 }
             ]

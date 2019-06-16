@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "outputFile": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
             "map": [
                 {
-                    "source": "D:\\Datasets\\android\\celeriapp\\res\\values-v14\\styles.xml",
+                    "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\values-v14\\styles.xml",
                     "from": {
                         "startLines": "7",
                         "startColumns": "2",

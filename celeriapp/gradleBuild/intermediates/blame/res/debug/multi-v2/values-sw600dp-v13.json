@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\Datasets\\android\\celeriapp\\res\\values-sw600dp\\template-dimens.xml",
+                    "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\values-sw600dp\\template-dimens.xml",
                     "from": {
                         "startLines": "20,21",
                         "startColumns": "4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "D:\\Datasets\\android\\celeriapp\\res\\values-sw600dp\\template-styles.xml",
+                    "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\values-sw600dp\\template-styles.xml",
                     "from": {
                         "startLines": "18",
                         "startColumns": "4",

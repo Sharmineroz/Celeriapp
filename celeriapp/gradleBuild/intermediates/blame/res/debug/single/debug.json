@@ -1,62 +1,62 @@
 [
     {
-        "merged": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment_tracking.xml.flat",
-        "source": "D:\\Datasets\\android\\celeriapp\\res\\layout\\camera_connection_fragment_tracking.xml"
+        "merged": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_celery.jpg.flat",
+        "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\drawable-mdpi\\ic_celery.jpg"
     },
     {
-        "merged": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\Datasets\\android\\celeriapp\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment.xml.flat",
+        "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\layout\\camera_connection_fragment.xml"
     },
     {
-        "merged": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_info.png.flat",
-        "source": "D:\\Datasets\\android\\celeriapp\\res\\drawable-mdpi\\ic_action_info.png"
+        "merged": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_info.png.flat",
+        "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\drawable-mdpi\\ic_action_info.png"
     },
     {
-        "merged": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment_stylize.xml.flat",
-        "source": "D:\\Datasets\\android\\celeriapp\\res\\layout\\camera_connection_fragment_stylize.xml"
+        "merged": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_popupwindow.xml.flat",
+        "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\layout\\popupwindow.xml"
     },
     {
-        "merged": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
-        "source": "D:\\Datasets\\android\\celeriapp\\res\\drawable-hdpi\\tile.9.png"
+        "merged": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_info.png.flat",
+        "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\drawable-xxhdpi\\ic_action_info.png"
     },
     {
-        "merged": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment.xml.flat",
-        "source": "D:\\Datasets\\android\\celeriapp\\res\\layout\\camera_connection_fragment.xml"
+        "merged": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment_tracking.xml.flat",
+        "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\layout\\camera_connection_fragment_tracking.xml"
     },
     {
-        "merged": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
-        "source": "D:\\Datasets\\android\\celeriapp\\res\\drawable-xxhdpi\\ic_launcher.png"
+        "merged": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_info.png.flat",
+        "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\drawable-hdpi\\ic_action_info.png"
     },
     {
-        "merged": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_info.png.flat",
-        "source": "D:\\Datasets\\android\\celeriapp\\res\\drawable-xxhdpi\\ic_action_info.png"
+        "merged": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment_stylize.xml.flat",
+        "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\layout\\camera_connection_fragment_stylize.xml"
     },
     {
-        "merged": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_popupwindow.xml.flat",
-        "source": "D:\\Datasets\\android\\celeriapp\\res\\layout\\popupwindow.xml"
+        "merged": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_celery.jpg.flat",
-        "source": "D:\\Datasets\\android\\celeriapp\\res\\drawable-mdpi\\ic_celery.jpg"
+        "merged": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\layout\\activity_camera.xml"
     },
     {
-        "merged": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_info.png.flat",
-        "source": "D:\\Datasets\\android\\celeriapp\\res\\drawable-xhdpi\\ic_action_info.png"
+        "merged": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
-        "source": "D:\\Datasets\\android\\celeriapp\\res\\layout\\activity_camera.xml"
+        "merged": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
-        "source": "D:\\Datasets\\android\\celeriapp\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
-        "source": "D:\\Datasets\\android\\celeriapp\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
+        "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\drawable-hdpi\\tile.9.png"
     },
     {
-        "merged": "D:\\Datasets\\android\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_info.png.flat",
-        "source": "D:\\Datasets\\android\\celeriapp\\res\\drawable-hdpi\\ic_action_info.png"
+        "merged": "D:\\GitHub\\Celeriapp\\celeriapp\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_info.png.flat",
+        "source": "D:\\GitHub\\Celeriapp\\celeriapp\\res\\drawable-xhdpi\\ic_action_info.png"
     }
 ]
