@@ -186,7 +186,7 @@ if __name__ == "__main__":
     cv2.imshow('frame',frame.astype(np.uint8))
 
     if cv2.waitKey(1) & 0xFF == ord('1'):
-    	np.save("../ev_time/time_array"+str(input_height)+"_0"+str(net_width),time_array)
+    	##np.save("../ev_time/time_array"+str(input_height)+"_0"+str(net_width),time_array)
     	break
   cap.release()
   cv2.destroyAllWindows()
